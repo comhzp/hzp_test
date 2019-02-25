@@ -1,4 +1,4 @@
-import org.junit.Test;
+ï»¿import org.junit.Test;
 
 public class Main {
 
@@ -11,9 +11,9 @@ public class Main {
 	// 123546789 88888 9999999999
 
 
-        System.out.println("µÄ·ç¸ñ");
+        System.out.println("çš„é£Žæ ¼");
 
-        System.out.println("¹þ¹þ¹þºÍ");
+        System.out.println("å“ˆå“ˆå“ˆå’Œ");
 
 
     }
