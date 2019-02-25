@@ -13,7 +13,7 @@ public class Main {
 
         System.out.println("的风格");
 
-        System.out.println("哈哈哈");
+        System.out.println("哈哈哈和");
 
 
     }
