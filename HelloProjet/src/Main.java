@@ -6,11 +6,13 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
 
-        System.out.println("µÚÒ»´ÎÔ¶³Ì²Ö¿âÌá½»");
+        System.out.println("ï¿½ï¿½Ò»ï¿½ï¿½Ô¶ï¿½Ì²Ö¿ï¿½ï¿½á½»");
 
 	// 123546789 88888 9999999999
 
-        System.out.println("ÔÙ´ÎÔ¶³ÌÌá½»");
+        System.out.println("ï¿½Ù´ï¿½Ô¶ï¿½ï¿½ï¿½á½»");
+
+        System.out.println("çš„é£Žæ ¼");
 
 
     }
